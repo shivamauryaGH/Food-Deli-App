@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Deli-App/static/css/main.b345a527.css",
+    "main.js": "/Food-Deli-App/static/js/main.a60b13e1.js",
+    "static/js/70.ba945a3e.chunk.js": "/Food-Deli-App/static/js/70.ba945a3e.chunk.js",
+    "index.html": "/Food-Deli-App/index.html",
+    "main.b345a527.css.map": "/Food-Deli-App/static/css/main.b345a527.css.map",
+    "main.a60b13e1.js.map": "/Food-Deli-App/static/js/main.a60b13e1.js.map",
+    "70.ba945a3e.chunk.js.map": "/Food-Deli-App/static/js/70.ba945a3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b345a527.css",
+    "static/js/main.a60b13e1.js"
+  ]
+}
